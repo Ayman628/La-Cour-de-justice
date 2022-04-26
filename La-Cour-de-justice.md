@@ -1,4 +1,4 @@
-# ***La Palais de la Cour de Justice***
+# ***Le Palais de la Cour de Justice***
 
 ###### Introduction :
 * Luxembourg est le siège de la Cour européenne de Justice. La Cour de Justice est présente à ce que le droit communautaire soit interprété et aussi appliqué de manière uniforme dans tous les Etats membres d’union européenne.
