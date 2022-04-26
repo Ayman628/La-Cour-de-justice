@@ -1,20 +1,6 @@
-# La Palais de la Cour de Justice
+# ***La Palais de la Cour de Justice***
 
-
-
-
-<details><summary>Participants</summary>
-<p>
-
-* > Ayman MIRI
-* > Ilija NOVCIC
-* > CRISTIAN STEFFEN
-* > Milad JABARI
-
-</p>
-</details>
-
-# ***L'introduction :***
+Introduction :
 * Luxembourg est le siège de la Cour européenne de Justice. La Cour de Justice est présente à ce que le droit communautaire soit interprété et aussi appliqué de manière uniforme dans tous les Etats membres d’union européenne.
 
 #  ***PHOTO :***
@@ -30,3 +16,13 @@
 
 # ***Notre avis :***
 # * 
+
+<details><summary>About</summary>
+<p>
+
+* **Groupe** : Ayman, Cristian, Ilija et Milad
+* **Classe** : 2TCSTRF
+* **Matière** : EDUCI 4
+  
+</p>
+</details>  
